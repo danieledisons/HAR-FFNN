@@ -1,0 +1,9 @@
+AdamW (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.99, 0.999)
+    eps: 1e-08
+    lr: 0.0005
+    maximize: False
+    weight_decay: 0.25
+)
